@@ -1,6 +1,7 @@
 <div align="left">
-  <h1 style="display: inline-block;">Smart Home Inteligente e Sustentável - TCC FATEC</h1>
-  <img src="imagens/logo.jpeg" alt="Logo FATEC" style="width: 120px; float: right; margin-left: 20px;"/>
+  | <h1>Smart Home Inteligente e Sustentável - TCC FATEC</h1> | <img src="imagens/logo.jpeg" alt="Logo FATEC" width="120"/> |
+|---|---|
+
 </div>
 
 ## Sobre o Projeto
