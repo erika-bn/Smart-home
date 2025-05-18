@@ -3,33 +3,36 @@
 
 ## Sobre o Projeto
 
-Este projeto é o Trabalho de Conclusão de Curso (TCC) do curso de Automação Industrial da FATEC. O objetivo é desenvolver uma casa inteligente, sustentável e totalmente automatizada, que ofereça conforto, segurança e eficiência energética.
+Este projeto é o Trabalho de Conclusão de Curso (TCC) do curso de Automação Industrial da FATEC. O objetivo é desenvolver uma **smart home** automatizada, sustentável e adaptável, que ofereça conforto, segurança e eficiência energética.
+
+Estamos construindo uma **maquete física** para representar a casa, utilizando **Zigbee2MQTT** e **Home Assistant** para realizar a automação dos dispositivos.
 
 ## Funcionalidades
 
 - Controle automatizado de portas e portões  
-- Sistema de iluminação RGBWW com controle remoto  
+- Sistema de iluminação RGBWW inteligente  
 - Monitoramento e controle do ar condicionado  
 - Segurança integrada com biometria e câmeras  
-- Uso de painéis solares para energia sustentável  
-- Sensores ambientais, como sensor de chuva e temperatura  
-- Automação da piscina com hidromassagem e cascata  
-- Interface centralizada para controle e monitoramento  
+- Geração de energia com painéis solares  
+- Sensores ambientais (chuva, temperatura, presença, etc.)  
+- Piscina automatizada com hidromassagem e cascata  
+- Centralização de comandos e monitoramento via interface  
 
 ## Tecnologias Utilizadas
 
-- IoT (Internet das Coisas)  
-- Automação Industrial  
+- Zigbee2MQTT  
+- Home Assistant  
+- IoT e automação industrial  
+- Arduino e ESP32  
 - Sensores e atuadores diversos  
-- Programação embarcada (Arduino, ESP)  
-- Painéis solares e sistemas energéticos  
-- Desenvolvimento de interfaces (futuro)  
+- Instalação elétrica e quadro de comando  
+- Maquete física em escala  
 
 ## Status do Projeto
 
-O projeto está em desenvolvimento, com as fases de levantamento de requisitos, modelagem e prototipação em andamento.
+- ✅ Maquete: 100% pronta  
+- ✅ Programação: 100% concluída  
+- ⚙️ Quadro de energia: 60%  
+- ⚙️ Automação (dispositivos): 20%  
+- ⚙️ Instalação elétrica: 20%  
 
-## Contato
-
-**Erika Nova**  
-[Seu e-mail ou LinkedIn, se quiser adicionar]
