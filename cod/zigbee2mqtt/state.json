@@ -1,0 +1,79 @@
+{
+    "0x5c0272fffe0703ae": {
+        "state": "ON",
+        "power_outage_memory": "off",
+        "indicator_mode": "off/on",
+        "power": 3,
+        "current": 0.04,
+        "voltage": 118,
+        "linkquality": 255,
+        "energy": 0.1
+    },
+    "0xa4c1386d750e72f7": {
+        "state": "ON",
+        "color_mode": "xy",
+        "color": {
+            "x": 0.139,
+            "y": 0.043
+        },
+        "brightness": 84,
+        "color_temp": 574,
+        "linkquality": 228,
+        "do_not_disturb": false
+    },
+    "0x847127fffea0e104": {
+        "state": "OFF",
+        "linkquality": 252
+    },
+    "0xa4c138f9dbbec2ff": {
+        "battery": 71,
+        "contact": true,
+        "battery_low": false,
+        "voltage": 2600,
+        "linkquality": 196
+    },
+    "0xa4c1385d24df8d02": {
+        "voltage": 2500,
+        "battery": 87,
+        "linkquality": 112,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0xb4e3f9fffeca0358": {
+        "state": "ON",
+        "current": 0.04,
+        "power": 2.7,
+        "voltage": 120.5,
+        "linkquality": 220,
+        "energy": 0.69
+    },
+    "0xa4c1389cd040d201": {
+        "state": "OFF",
+        "color_mode": "xy",
+        "linkquality": 216,
+        "color": {
+            "x": 0.313,
+            "y": 0.154
+        },
+        "do_not_disturb": false,
+        "brightness": 137,
+        "color_temp": 383
+    },
+    "0xa4c1382a9f5992f6": {
+        "state": "OFF",
+        "color_mode": "xy",
+        "linkquality": 204,
+        "brightness": 254,
+        "color": {
+            "x": 0.14,
+            "y": 0.05
+        },
+        "color_temp": 562
+    },
+    "0x00124b0023ae2c42": {
+        "state_right": "OFF",
+        "state_left": "OFF",
+        "linkquality": 255
+    }
+}

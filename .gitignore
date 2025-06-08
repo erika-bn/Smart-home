@@ -1,0 +1,8 @@
+# Arquivos do Home Assistant que devem ser ignorados
+secrets.yaml
+*.zip
+__pycache__/
+storage/
+shopping_list.json
+jwt_secret.txt
+backup_config.yaml

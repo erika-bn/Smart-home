@@ -1,0 +1,63 @@
+mqtt:
+  host: 192.168.18.176
+  port: 1883
+  topic_prefix: frigate
+  client_id: frigate
+  user: mqttkardamy
+  password: mqttkardamy
+
+record:
+  enabled: false
+  retain:
+    days: 7
+    mode: motion
+  alerts:
+    retain:
+      days: 30
+  detections:
+    retain:
+      days: 30
+ffmpeg:
+  hwaccel_args: preset-vaapi
+
+detectors:
+  ov:
+    type: openvino
+    device: AUTO
+    model_path: /openvino-model/ssdlite_mobilenet_v2.xml
+snapshots:
+  enabled: true
+  retain:
+    default: 2
+
+cameras:
+  tapocam0101:
+    detect:
+      width: 1280
+      height: 720
+      fps: 5
+    ffmpeg:
+      inputs:
+        - path: rtsp://kenedycam:kenedycam1@192.168.18.203/live
+          roles:
+            - detect
+    motion:
+      mask: 0.197,0.389,0.223,0.989,0.833,0.989,0.785,0.307,0.404,0.111
+    objects:
+      track:
+        - person
+
+      filters:
+        person:
+          mask: 0.262,0.912,0.229,0.471,0.429,0.283,0.729,0.345,0.767,0.831
+    zones:
+      Padrão:
+        coordinates: 0.217,0.458,0.468,0.173,0.764,0.362,0.795,0.869,0.242,0.942
+        loitering_time: 0
+        objects: person
+    review:
+      alerts:
+        required_zones: Padrão
+      detections:
+        required_zones: Padrão
+version: 0.15-1

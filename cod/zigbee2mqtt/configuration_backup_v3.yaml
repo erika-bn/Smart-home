@@ -1,0 +1,64 @@
+homeassistant: true
+advanced:
+  network_key:
+    - 222
+    - 90
+    - 87
+    - 140
+    - 74
+    - 166
+    - 246
+    - 52
+    - 65
+    - 34
+    - 95
+    - 139
+    - 67
+    - 76
+    - 115
+    - 15
+  pan_id: 26553
+  ext_pan_id:
+    - 111
+    - 163
+    - 168
+    - 223
+    - 142
+    - 158
+    - 121
+    - 39
+  homeassistant_legacy_entity_attributes: false
+  legacy_api: false
+  legacy_availability_payload: false
+mqtt:
+  server: mqtt://core-mosquitto:1883
+  user: mqttkardamy
+  password: mqttkardamy
+  base_topic: zigbee2mqtt
+serial:
+  port: >-
+    /dev/serial/by-id/usb-Itead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_V2_24b2f881d312ef118e9c75b8bf9df066-if00-port0
+  adapter: ezsp
+frontend:
+  port: 8099
+device_options:
+  legacy: false
+devices:
+  '0x5c0272fffe0703ae':
+    friendly_name: Tomada Plug Lab
+  '0xa4c1386d750e72f7':
+    friendly_name: Fita Led garage
+  '0x847127fffea0e104':
+    friendly_name: Botijão
+  '0xa4c138f9dbbec2ff':
+    friendly_name: Sensor Presença
+  '0xa4c1385d24df8d02':
+    friendly_name: Porta Escritorio
+  '0xb4e3f9fffeca0358':
+    friendly_name: Medidor de Energia
+  '0xa4c1389cd040d201':
+    friendly_name: Led Sala
+  '0xa4c1382a9f5992f6':
+    friendly_name: 'Led Quarto '
+  '0x00124b0023ae2c42':
+    friendly_name: Motor Casa

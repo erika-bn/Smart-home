@@ -1,0 +1,73 @@
+[2025-06-03 00:42:36] info: 	z2m: Logging to console, file (filename: log.log)
+[2025-06-03 00:47:22] info: 	z2m: Starting Zigbee2MQTT version 2.3.0 (commit #unknown)
+[2025-06-03 00:47:29] info: 	z2m: Starting zigbee-herdsman (4.0.0)
+[2025-06-03 00:47:37] warning: 	zh:ezsp: 'ezsp' driver is deprecated and will only remain to provide support for older firmware (pre 7.4.x). Migration to 'ember' is recommended. If using Zigbee2MQTT see https://github.com/Koenkk/zigbee2mqtt/discussions/21462
+[2025-06-03 00:47:43] info: 	z2m: zigbee-herdsman started (resumed)
+[2025-06-03 00:47:43] info: 	z2m: Coordinator firmware version: '{"meta":{"maintrel":"3 ","majorrel":"6","minorrel":"10","product":8,"revision":"6.10.3.0 build 297"},"type":"EZSP v8"}'
+[2025-06-03 00:47:43] info: 	z2m: Motor Piscina (0x5c0272fffe0703ae): TS0121_plug - Tuya 10A UK or 16A EU smart plug (Router)
+[2025-06-03 00:47:43] info: 	z2m: Fita Led garage (0xa4c1386d750e72f7): TS0505B_1 - Tuya Zigbee RGB+CCT light (Router)
+[2025-06-03 00:47:43] info: 	z2m: Botijão (0x847127fffea0e104): PF-PM02D-TYZ - IOTPerfect Smart water/gas valve (Router)
+[2025-06-03 00:47:43] info: 	z2m: Sensor Presença (0xa4c138f9dbbec2ff): SNZB-04 - SONOFF Contact sensor (EndDevice)
+[2025-06-03 00:47:43] info: 	z2m: Porta Escritorio (0xa4c1385d24df8d02): TS0203 - Tuya Door sensor (EndDevice)
+[2025-06-03 00:47:43] info: 	z2m: Medidor de Energia (0xb4e3f9fffeca0358): TS0601_din - Tuya Zigbee smart energy meter DDS238-2 Zigbee (Router)
+[2025-06-03 00:47:43] info: 	z2m: Led Sala (0xa4c1389cd040d201): TS0505B_1 - Tuya Zigbee RGB+CCT light (Router)
+[2025-06-03 00:47:43] info: 	z2m: Led Quarto  (0xa4c1382a9f5992f6): TS0505B_1 - Tuya Zigbee RGB+CCT light (Router)
+[2025-06-03 00:47:43] info: 	z2m: Motor Casa (0x00124b0023ae2c42): ZB-SW02 - eWeLink Smart light switch/2 gang relay (Router)
+[2025-06-03 00:47:43] info: 	z2m: Currently 9 devices are joined.
+[2025-06-03 00:47:43] info: 	z2m: Connecting to MQTT server at mqtt://core-mosquitto:1883
+[2025-06-03 00:47:43] info: 	z2m: Connected to MQTT server
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/bridge/state', payload '{"state":"online"}'
+[2025-06-03 00:47:43] info: 	z2m: Started frontend on port 8099
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":240,"power":2.7,"state":"ON","voltage":122.4}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Motor Piscina', payload '{"current":0,"energy":0.09,"indicator_mode":"off/on","linkquality":255,"power":0,"power_outage_memory":"off","state":"OFF","voltage":116}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Fita Led garage', payload '{"brightness":162,"color":{"x":0.144,"y":0.07},"color_mode":"xy","color_power_on_behavior":null,"color_temp":500,"do_not_disturb":false,"effect":null,"linkquality":255,"state":"OFF"}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Botijão', payload '{"linkquality":252,"state":"OFF"}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Sensor Presença', payload '{"battery":74,"battery_low":false,"contact":false,"linkquality":255,"voltage":2600}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Porta Escritorio', payload '{"battery":87,"battery_low":false,"contact":true,"linkquality":112,"tamper":false,"voltage":2500}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":240,"power":2.7,"state":"ON","voltage":122.4}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Led Sala', payload '{"brightness":8,"color":{"x":0.229,"y":0.667},"color_mode":"xy","color_power_on_behavior":null,"color_temp":140,"do_not_disturb":false,"effect":null,"linkquality":248,"state":"OFF"}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Led Quarto ', payload '{"brightness":231,"color":{"x":0.7006,"y":0.2993},"color_mode":"xy","color_power_on_behavior":null,"color_temp":160,"do_not_disturb":null,"effect":null,"linkquality":255,"state":"OFF"}'
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Motor Casa', payload '{"linkquality":248,"power_on_behavior_left":null,"power_on_behavior_right":null,"state_left":"OFF","state_right":"OFF"}'
+[2025-06-03 00:47:43] info: 	z2m: Zigbee2MQTT started!
+[2025-06-03 00:47:43] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":244,"power":2.7,"state":"ON","voltage":122.4}'
+[2025-06-03 00:47:44] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":252,"power":2.7,"state":"ON","voltage":123.5}'
+[2025-06-03 00:47:48] info: 	z2m:mqtt: MQTT publish: topic 'homeassistant/binary_sensor/1221051039810110150109113116116_0x8c65a3fffe54d3c8/connection_state/config', payload '{"device":{"hw_version":"EZSP v8 6.10.3.0 build 297","identifiers":["zigbee2mqtt_bridge_0x8c65a3fffe54d3c8"],"manufacturer":"Zigbee2MQTT","model":"Bridge","name":"Zigbee2MQTT Bridge","sw_version":"2.3.0"},"device_class":"connectivity","entity_category":"diagnostic","name":"Connection state","object_id":"zigbee2mqtt_bridge_connection_state","origin":{"name":"Zigbee2MQTT","sw":"2.3.0","url":"https://www.zigbee2mqtt.io"},"payload_off":"offline","payload_on":"online","state_topic":"zigbee2mqtt/bridge/state","unique_id":"bridge_0x8c65a3fffe54d3c8_connection_state_zigbee2mqtt","value_template":"{{ value_json.state }}"}'
+[2025-06-03 00:48:14] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":180,"power":2.7,"state":"ON","voltage":123.5}'
+[2025-06-03 00:48:17] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":180,"power":2.7,"state":"ON","voltage":123.5}'
+[2025-06-03 00:48:32] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":180,"power":2.7,"state":"ON","voltage":123.5}'
+[2025-06-03 00:48:58] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":180,"power":2.7,"state":"ON","voltage":123.5}'
+[2025-06-03 00:50:23] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Motor Piscina', payload '{"current":0,"energy":0.09,"indicator_mode":"off/on","linkquality":255,"power":0,"power_outage_memory":"off","state":"OFF","voltage":116}'
+[2025-06-03 00:51:16] error: 	z2m: MQTT error: write EPIPE
+[2025-06-03 00:51:49] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Fita Led garage', payload '{"brightness":162,"color":{"x":0.144,"y":0.07},"color_mode":"xy","color_power_on_behavior":null,"color_temp":500,"do_not_disturb":false,"effect":null,"linkquality":255,"state":"OFF"}'
+[2025-06-03 00:52:27] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Motor Piscina', payload '{"current":0,"energy":0.09,"indicator_mode":"off/on","linkquality":255,"power":0,"power_outage_memory":"off","state":"OFF","voltage":116}'
+[2025-06-03 00:52:40] error: 	zh:ezsp:uart: --> Error: Error: {"sequence":1} after 4000ms
+[2025-06-03 00:52:45] error: 	zh:ezsp:uart: -!- break waiting (1)
+[2025-06-03 00:52:50] error: 	zh:ezsp:uart: Can't send DATA frame (0,2,0): 30000134000078e6040100ef01010001000006070510320b0100
+[2025-06-03 00:54:58] info: 	z2m:mqtt: MQTT publish: topic 'zigbee2mqtt/Medidor de Energia', payload '{"current":0.04,"energy":0.37,"linkquality":184,"power":2.7,"state":"ON","voltage":123.5}'
+[2025-06-03 00:55:19] error: 	z2m: Not connected to MQTT server!
+[2025-06-03 00:55:20] error: 	zh:ezsp:uart: --> Error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:55:25] error: 	zh:ezsp:uart: Failed to reset on Error Frame: Error: Reset error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:55:59] error: 	z2m: Not connected to MQTT server!
+[2025-06-03 00:56:07] error: 	zh:ezsp:uart: --> Error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:56:18] error: 	zh:ezsp:uart: Failed to reset on Error Frame: Error: Reset error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:56:23] error: 	zh:ezsp:uart: --> Error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:56:30] error: 	zh:ezsp:uart: Failed to reset on Error Frame: Error: Reset error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:56:34] error: 	zh:ezsp:uart: --> Error: Error: {"sequence":1} after 4000ms
+[2025-06-03 00:56:36] error: 	zh:ezsp:uart: -!- break rewaiting (1)
+[2025-06-03 00:56:40] error: 	zh:ezsp:uart: Can't resend DATA frame (0,2,1): 30000134000078e6040100ef01010001000006070510320b0100
+[2025-06-03 00:58:20] error: 	z2m: MQTT error: getaddrinfo EAI_AGAIN core-mosquitto
+[2025-06-03 00:58:26] error: 	z2m: Not connected to MQTT server!
+[2025-06-03 00:58:47] error: 	zh:ezsp:ezsp: Connection attempt 1 error: Error: Error Resource temporarily unavailable Cannot lock port
+[2025-06-03 00:58:50] error: 	zh:ezsp:ezsp: Connection attempt 1 error: Error: Error Resource temporarily unavailable Cannot lock port
+[2025-06-03 00:58:52] error: 	z2m: Not connected to MQTT server!
+[2025-06-03 00:59:02] error: 	zh:ezsp:uart: --> Error: Error: {"sequence":-1} after 10000ms
+[2025-06-03 00:59:06] error: 	zh:ezsp:ezsp: Connection attempt 1 error: Error: Failure to connect
+[2025-06-03 00:59:11] error: 	zh:ezsp:ezsp: Connection attempt 2 error: Error: Error Resource temporarily unavailable Cannot lock port
+[2025-06-03 00:59:13] error: 	zh:ezsp:ezsp: Connection attempt 2 error: Error: Error Resource temporarily unavailable Cannot lock port
+[2025-06-03 00:59:16] error: 	z2m: Adapter disconnected, stopping
+[2025-06-03 00:59:37] error: 	z2m: Not connected to MQTT server!
+[2025-06-03 00:59:37] error: 	z2m: Cannot send message: topic: 'zigbee2mqtt/bridge/state', payload: '{"state":"offline"}
+[2025-06-03 00:59:37] info: 	z2m: Disconnecting from MQTT server
+[2025-06-03 00:59:37] info: 	z2m: Stopping zigbee-herdsman...
+[2025-06-03 00:59:37] info: 	z2m: Stopped zigbee-herdsman
+[2025-06-03 00:59:37] info: 	z2m: Stopped Zigbee2MQTT
