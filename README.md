@@ -65,7 +65,8 @@ Uma **maquete física funcional** foi construída para representar o sistema em 
 
 ## 🤖 Desenvolvido por
 
-**Erika Nova** **Kenedy Santos** **Miguel Valverde** **Patrick Zacarioto**
+**Erika Nova,** **Kenedy Santos,** **Miguel Valverde,** **Patrick Zacarioto.**
+
 Estudante de Automação Industrial - FATEC  
 
 ---
