@@ -48,16 +48,16 @@ Uma **maquete física funcional** foi construída para representar o sistema em 
 ## 📈 Status do Projeto
 
 | Etapa                                     | Progresso |
-|------------------------------------------|-----------|
+|------------------------------------------|-----------   |
 | Maquete física                            | ✅ 100%    |
-| Pintura da maquete                        | 🎨 80%     |
-| Integração com IA e Alexa                 | 🤖 90%     |
-| Câmera com inteligência artificial        | 📷 60%     |
-| Piscina com hidromassagem/cascata        | 🏊 60%     |
-| Automação geral dos dispositivos          | ⚙️ 40%     |
+| Pintura da maquete                        | ✅ 100%    |
+| Integração com IA e Alexa                 | ✅ 100%    |
+| Câmera com inteligência artificial        | 📷 90%     |
+| Piscina com hidromassagem/cascata         |  🏊 70%    |
+| Automação geral dos dispositivos          | ⚙️ 70%     |
 | Energia no painel de distribuição         | ⚡ 90%     |
-| Energia elétrica funcional na maquete     | ⚡ 70%     |
-| Quadro de energia e distribuição          | ⚙️ 60%     |
+| Energia elétrica funcional na maquete     | ⚡ 80%     |
+| Quadro de energia e distribuição          | ⚙️ 80%     |
 | Garagem automatizada                      | 🚗 10%     |
 | Programação e lógica                      | ✅ 100%    |
 
@@ -65,9 +65,8 @@ Uma **maquete física funcional** foi construída para representar o sistema em 
 
 ## 🤖 Desenvolvido por
 
-**Erika Nova**  
+**Erika Nova** **Kenedy Santos** **Miguel Valverde** **Patrick Zacarioto**
 Estudante de Automação Industrial - FATEC  
-[GitHub](https://github.com/erika-bn) | [LinkedIn](https://www.linkedin.com/in/erika-nova)
 
 ---
 
