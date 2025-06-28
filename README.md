@@ -57,15 +57,7 @@ A residência é comandada por uma **IA embarcada**, capaz de tomar decisões co
 <img src="imagens/painel.jpg" alt="Painel de Energia" width="300"/>
 
 </div>
----
 
-## 🎥 Demonstração em Vídeo
-
-> Veja a residência inteligente em funcionamento real:  
-📺 [Assista no YouTube](https://www.youtube.com/seu-link-aqui)  
-📁 Ou acesse localmente: [`video/smart_home_demo.mp4`](video/smart_home_demo.mp4)
-
----
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
