@@ -70,7 +70,7 @@ A residência é comandada por uma **IA embarcada**, capaz de tomar decisões co
 **Miguel Valverde**  
 **Patrick Zacarioto**
 
-Estudantes do curso de **Automação Industrial – FATEC Osasco**
+Estudantes do curso de **Automação Industrial – FATEC Itaquera**
 
 ---
 
