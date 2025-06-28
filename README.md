@@ -71,7 +71,7 @@ Com foco em integração e usabilidade, a proposta utiliza plataformas como **Ho
 **Miguel Valverde**  
 **Patrick Zacarioto**  
 
-Estudantes do curso de **Automação Industrial – FATEC Osasco**
+Estudantes do curso de **Automação Industrial – FATEC Itaquera**
 
 ---
 
