@@ -48,13 +48,13 @@ A residência é comandada por uma **IA embarcada**, capaz de tomar decisões co
 
 ## 📷 Galeria do Projeto
 
-> Imagens da maquete funcional e dos principais sistemas ## 📷 Galeria do Projeto
+> Imagens da domótica funcional e dos principais sistemas
 
 <div align="center">
 
 <img src="imagens/casa.jpg" alt="Maquete Geral" width="300"/> 
-<img src="imagens/GERAL.jpg" alt="Painel de Energia" width="300"/> 
-<img src="imagens/painel.jpg" alt="Automação em Funcionamento" width="300"/>
+<img src="imagens/GERAL.png" alt="Dashboard HA" width="300"/> 
+<img src="imagens/painel.jpg" alt="Painel de Energia" width="300"/>
 
 </div>
 ---
