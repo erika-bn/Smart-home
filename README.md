@@ -14,7 +14,7 @@
 
 Este repositório apresenta o desenvolvimento de uma **casa inteligente, sustentável e adaptável**, criada como Trabalho de Conclusão de Curso (TCC) da FATEC. A proposta une **automação residencial, eficiência energética e inteligência artificial**, promovendo conforto, segurança e acessibilidade em uma maquete funcional que representa fielmente um sistema real.
 
-A residência é comandada por uma **IA embarcada**, capaz de tomar decisões com base em comportamentos, interpretar o ambiente em tempo real e agir preventivamente diante de situações incomuns — elevando o conceito de smart home a um novo patamar.
+A residência é comandada por uma **IA embarcada**, capaz de tomar decisões com base em comportamentos, interpretar o ambiente em tempo real e agir preventivamente diante de situações incomuns elevando o conceito de smart home a um novo patamar.
 
 ---
 
