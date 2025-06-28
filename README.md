@@ -50,8 +50,8 @@ A residência é comandada por uma **IA embarcada**, capaz de tomar decisões co
 
 > Imagens da maquete funcional e dos principais sistemas embarcados:
 
-- ![Foto 1 – Visão geral da maquete](imagens/maquete_geral.jpg)
-- ![Foto 2 – Painel de energia funcional](imagens/painel_energia.jpg)
+- ![Foto 1 – Visão geral da maquete](imagens/casa.jpg)
+- ![Foto 2 – Painel de energia funcional](imagens/painel.jpg)
 - ![Foto 3 – Automação e sensores em operação](imagens/automacao.jpg)
 
 ---
