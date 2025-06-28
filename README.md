@@ -1,76 +1,37 @@
-<h1 align="center">🏠 Smart Home Inteligente e Sustentável</h1>
+<h1 align="center">🏠 Smart Home Inteligente, Sustentável e Adaptável</h1>
 
 <p align="center">
   <img src="imagens/logo.jpeg" alt="Logo FATEC" width="150"/>
 </p>
 
 <p align="center">
-  <strong>Projeto de TCC - FATEC | Curso de Automação Industrial</strong>
+  <strong>Trabalho de Conclusão de Curso – FATEC | Curso de Automação Industrial</strong>
 </p>
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém o Trabalho de Conclusão de Curso (TCC) da FATEC, com foco no desenvolvimento de uma **casa inteligente automatizada, sustentável e adaptável**. O projeto busca aliar tecnologia e conforto com eficiência energética e acessibilidade, utilizando plataformas modernas como **Zigbee2MQTT**, **Home Assistant**, e **Integração com IA**.
+Este repositório documenta o desenvolvimento de uma **casa inteligente e sustentável**, concebida como Trabalho de Conclusão de Curso (TCC) da FATEC. O projeto alia **tecnologia de ponta, conforto, eficiência energética**, por meio de uma maquete funcional que simula, em escala reduzida, uma residência totalmente automatizada.
 
-Uma **maquete física funcional** foi construída para representar o sistema em escala real.
-
----
-
-## 💡 Funcionalidades
-
-- 🔐 Controle automatizado de **portas e portões**
-- 💡 Sistema de **iluminação RGBWW inteligente**
-- 🌡️ Monitoramento de **climatização e temperatura**
-- 📷 Segurança com **biometria e câmeras com IA**
-- ☀️ Geração de energia com **painéis solares**
-- 🧠 Integração com **Alexa e Inteligência Artificial**
-- 🌧️ Sensores de **chuva, temperatura, presença, etc.**
-- 🏊 Piscina com **hidromassagem e cascata**
-- 🖥️ Centralização de comandos via **dashboards e automações**
+Com foco em integração e usabilidade, a proposta utiliza plataformas como **Home Assistant**, **Zigbee2MQTT**, e **Node-RED**, além de **sensores, atuadores e assistentes de voz**, resultando em um sistema adaptável e escalável para cenários reais.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 💡 Funcionalidades Principais
 
-- 🧩 **Zigbee2MQTT** e **Home Assistant**
-- 🔌 **ESP32**, **Arduino UNO**
-- 🌐 **MQTT**, **Node-RED**
-- 🧠 **Integração com Alexa e IA personalizada**
-- 📷 Câmeras com processamento local (IA)
-- 💡 Sensores e atuadores (relés, DHT22, servos, etc.)
-- 📦 Instalação elétrica, painéis e quadro de distribuição
-- 🏠 Maquete física em escala
-
----
-
-## 📈 Status do Projeto
-
-| Etapa                                     | Progresso |
-|------------------------------------------|-----------   |
-| Maquete física                            | ✅ 100%    |
-| Pintura da maquete                        | ✅ 100%    |
-| Integração com IA e Alexa                 | ✅ 100%    |
-| Câmera com inteligência artificial        | 📷 90%     |
-| Piscina com hidromassagem/cascata         |  🏊 70%    |
-| Automação geral dos dispositivos          | ⚙️ 70%     |
-| Energia no painel de distribuição         | ⚡ 90%     |
-| Energia elétrica funcional na maquete     | ⚡ 80%     |
-| Quadro de energia e distribuição          | ⚙️ 80%     |
-| Garagem automatizada                      | 🚗 10%     |
-| Programação e lógica                      | ✅ 100%    |
+- 🔐 Abertura automática de **portas e portões**
+- 💡 Iluminação inteligente com controle de **RGBWW**
+- 🌡️ Monitoramento climático com sensores de **temperatura e umidade**
+- 📷 Sistema de segurança com **câmeras inteligentes e biometria**
+- ☀️ Geração de energia por **painéis solares**
+- 🧠 Controle por **Alexa e integração com IA**
+- 🌧️ Sensoriamento completo: chuva, presença, luminosidade, etc.
+- 🏊 Piscina com **hidromassagem e cascata automatizadas**
+- 🖥️ Interface central via **dashboards personalizados**
 
 ---
 
-## 🤖 Desenvolvido por
+## 🛠️ Tecnologias e Arquitetura
 
-**Erika Nova,** **Kenedy Santos,** **Miguel Valverde,** **Patrick Zacarioto.**
-
-Estudante de Automação Industrial - FATEC  
-
----
-
-## 📝 Licença
-
-Este projeto é acadêmico e de uso livre para fins educacionais.
+- **Zigbee2MQTT** para comunicação de dispositivos
