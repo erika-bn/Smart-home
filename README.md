@@ -12,55 +12,54 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório documenta o desenvolvimento de uma **casa inteligente e sustentável**, concebida como Trabalho de Conclusão de Curso (TCC) da FATEC. O projeto alia **tecnologia de ponta, conforto, eficiência energética e acessibilidade**, por meio de uma maquete funcional que simula, em escala reduzida, uma residência totalmente automatizada.
+Este repositório apresenta o desenvolvimento de uma **casa inteligente, sustentável e adaptável**, criada como Trabalho de Conclusão de Curso (TCC) da FATEC. A proposta une **automação residencial, eficiência energética e inteligência artificial**, promovendo conforto, segurança e acessibilidade em uma maquete funcional que representa fielmente um sistema real.
 
-Com foco em integração e usabilidade, a proposta utiliza plataformas como **Home Assistant**, **Zigbee2MQTT**, e **Node-RED**, além de **sensores, atuadores e assistentes de voz**, resultando em um sistema adaptável e escalável para cenários reais.
+A residência é comandada por uma **IA embarcada**, capaz de tomar decisões com base em comportamentos, interpretar o ambiente em tempo real e agir preventivamente diante de situações incomuns — elevando o conceito de smart home a um novo patamar.
 
 ---
 
 ## 💡 Funcionalidades Principais
 
-- 🔐 Abertura automática de **portas e portões**
-- 💡 Iluminação inteligente com controle de **RGBWW**
+- 🔐 Abertura e fechamento automatizados de **portas e portões**
+- 💡 Controle de **iluminação RGBWW** com adaptação ao ambiente
 - 🌡️ Monitoramento climático com sensores de **temperatura e umidade**
-- 📷 Sistema de segurança com **câmeras inteligentes e biometria**
-- ☀️ Geração de energia por **painéis solares**
-- 🧠 Controle por **Alexa e integração com IA**
-- 🌧️ Sensoriamento completo: chuva, presença, luminosidade, etc.
-- 🏊 Piscina com **hidromassagem e cascata automatizadas**
-- 🖥️ Interface central via **dashboards personalizados**
+- 📷 **Segurança inteligente** com reconhecimento facial e alertas contextuais
+- ☀️ Geração de energia com **painéis solares** integrados
+- 🧠 **IA embarcada** que aprende rotinas, reconhece padrões e atua de forma autônoma
+- 🌧️ Sensoriamento de **chuva, luminosidade, movimento e presença**
+- 🏊 Controle automatizado de **piscina com hidromassagem e cascata**
+- 🖥️ Acesso completo via **dashboards remotos e assistentes de voz**
 
 ---
 
 ## 🛠️ Tecnologias e Arquitetura
 
-- **Zigbee2MQTT** para comunicação de dispositivos
-- **Home Assistant** como núcleo do sistema
-- **Node-RED** para lógica de automação visual
-- **MQTT Broker** local com Aedes
-- **ESP32** e **Arduino UNO** para controle de hardware
-- **Relés inteligentes**, **servomotores**, **DHT22**, **sensores de presença**, entre outros
-- **Integração com Alexa e IA personalizada**
-- **Câmeras com IA embarcada** para segurança e reconhecimento
-- **Painel de energia funcional** com quadro de distribuição
+- **ESP8266 com firmware Tasmota**, para controle dos dispositivos conectados
+- **Zigbee2MQTT** e sensores compatíveis para comunicação segura e eficiente
+- **Home Assistant** como plataforma central de automação
+- **Node-RED** para lógica inteligente e automações visuais
+- **Broker MQTT local (Aedes)** para interligação de sensores e atuadores
+- **Visão computacional embarcada** para reconhecimento de rostos, vestimentas e movimentos suspeitos
+- **IA adaptativa** que aprende comportamentos e reage a padrões fora do comum
+- **Painel elétrico real** com quadro de distribuição e instalação funcional
 
 ---
 
 ## 📷 Galeria do Projeto
 
-> Imagens da maquete finalizada, componentes eletrônicos e painel de energia:
+> Imagens da maquete funcional e dos principais sistemas embarcados:
 
 - ![Foto 1 – Visão geral da maquete](imagens/maquete_geral.jpg)
-- ![Foto 2 – Painel de energia](imagens/painel_energia.jpg)
-- ![Foto 3 – Automação em funcionamento](imagens/automacao.jpg)
+- ![Foto 2 – Painel de energia funcional](imagens/painel_energia.jpg)
+- ![Foto 3 – Automação e sensores em operação](imagens/automacao.jpg)
 
 ---
 
 ## 🎥 Demonstração em Vídeo
 
-> Clique para assistir à demonstração completa da Smart Home em funcionamento:  
+> Veja a residência inteligente em funcionamento real:  
 📺 [Assista no YouTube](https://www.youtube.com/seu-link-aqui)  
-📁 Ou visualize o vídeo localmente: [`video/smart_home_demo.mp4`](video/smart_home_demo.mp4)
+📁 Ou acesse localmente: [`video/smart_home_demo.mp4`](video/smart_home_demo.mp4)
 
 ---
 
@@ -69,14 +68,14 @@ Com foco em integração e usabilidade, a proposta utiliza plataformas como **Ho
 **Erika Nova**  
 **Kenedy Santos**  
 **Miguel Valverde**  
-**Patrick Zacarioto**  
+**Patrick Zacarioto**
 
-Estudantes do curso de **Automação Industrial – FATEC Itaquera**
+Estudantes do curso de **Automação Industrial – FATEC Osasco**
 
 ---
 
 ## 📄 Licença
 
-Este projeto tem finalidade **estritamente acadêmica**, sendo livre para uso em pesquisas, exposições educacionais e como referência para desenvolvimento de soluções similares.
+Este projeto possui caráter **acadêmico** e está disponível para fins educacionais, exposições e como referência para soluções de automação residencial com inteligência artificial.
 
 ---
