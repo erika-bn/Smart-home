@@ -48,16 +48,25 @@ A residência é comandada por uma **IA embarcada**, capaz de tomar decisões co
 
 ## 📷 Galeria do Projeto
 
-> Imagens da domótica funcional e dos principais sistemas
+<p align="center">
+  <img src="imagens/casa.jpg" alt="Maquete Geral" width="320" style="margin: 10px"/>
+  <img src="imagens/GERAL.png" alt="Dashboard HA" width="320" style="margin: 10px"/>
+  <img src="imagens/painel.jpg" alt="Painel de Energia" width="320" style="margin: 10px"/>
+</p>
 
-<div align="center">
+---
 
-<img src="imagens/casa.jpg" alt="Maquete Geral" width="300"/> 
-<img src="imagens/GERAL.png" alt="Dashboard HA" width="300"/> 
-<img src="imagens/painel.jpg" alt="Painel de Energia" width="300"/>
+## 🎥 Demonstração no YouTube
 
-</div>
+> Veja o funcionamento completo da nossa **Smart Home Inteligente, Sustentável e Adaptável** em vídeo!
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ZbR1B3CSwtY" target="_blank">
+    <img src="https://img.youtube.com/vi/ZbR1B3CSwtY/maxresdefault.jpg" alt="Assista no YouTube" width="500"/>
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
